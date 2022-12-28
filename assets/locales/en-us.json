@@ -316,7 +316,7 @@
     },
     "Updater": {
         "updateFailed": "Update Failed!",
-        "updateFailedMessage": "BetterDiscord failed to update. Please download the latest version of the installer from our website (https://discordz.xyz/) and reinstall.",
+        "updateFailedMessage": "BetterDiscord failed to update. Please download the latest version of the installer from our website (https://betterdiscord.app/) and reinstall.",
         "updateSuccessful": "Update Successful!",
         "updateAvailable": "BetterDiscord has a new update (v{{version}})",
         "addonUpdatesAvailable": "BetterDiscord has found updates for {{count}} of your {{type}}s!",

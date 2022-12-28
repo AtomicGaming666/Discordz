@@ -60,8 +60,8 @@ Before creating bug reports, please check [this list](#before-submitting-a-bug-r
 
 #### Before Submitting A Bug Report
 
-* **Try [repairing your installation](https://docs.discordz.xyz/users/getting-started/installation).** This can often fix issues where Discord has overwritten the injector or corrupted data files.
-* **Check the [#faq channel](https://discordz.xyz/invite)** on our support server for answers to many questions. Also check the **#announcements** channel for any recent announcements about breaking changes.
+* **Try [repairing your installation](https://docs.betterdiscord.app/users/getting-started/installation).** This can often fix issues where Discord has overwritten the injector or corrupted data files.
+* **Check the [#faq channel](https://betterdiscord.app/invite)** on our support server for answers to many questions. Also check the **#announcements** channel for any recent announcements about breaking changes.
 * **Perform a [search](https://github.com/BetterDiscord/BetterDiscord/issues)** to see if the problem has already been reported. If it has **and the issue is still open**, add a :+1: to the existing issue instead of opening a new one.
 
 #### How Do I Submit A (Good) Bug Report?

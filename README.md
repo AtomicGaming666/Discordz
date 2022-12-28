@@ -1,6 +1,6 @@
 <div align="center">
 
-[![BetterDiscord Logo](https://media.discordapp.net/attachments/341062370627682315/1053477174566465567/logo_large_ish.png)](https://discordz.xyz/)
+[![BetterDiscord Logo](https://media.discordapp.net/attachments/341062370627682315/1053477174566465567/logo_large_ish.png)](https://betterdiscord.app/)
 
 [![CI Status][build-badge]][build-link] [![GitHub Releases][downloads-badge]][downloads-link] [![Discord][discord-badge]][discord-link] [![Website][website-badge]][website-link] [![Docs][docs-badge]][docs-link]
 
@@ -15,15 +15,15 @@
 [discord-link]: https://discord.gg/bnSUxedypU
 
 [website-badge]: https://img.shields.io/badge/website-green?labelColor=0c0d10&color=3a71c1&style=for-the-badge&logo=firefoxbrowser&logoColor=3a71c1
-[website-link]: https://discordz.xyz
+[website-link]: https://betterdiscord.app
 
 [docs-badge]: https://img.shields.io/badge/docs-green?labelColor=0c0d10&color=3a71c1&style=for-the-badge&logo=readthedocs&logoColor=3a71c1
-[docs-link]: https://docs.discordz.xyz
+[docs-link]: https://docs.betterdiscord.app
 
 
 BetterDiscord is a client modification for Discord with endless flexibility and addons. The only limit to the customization is your own imagination.
 
-[![Theme Split](https://discordz.xyz/resources/branding/split.png)](https://discordz.xyz/)
+[![Theme Split](https://betterdiscord.app/resources/branding/split.png)](https://betterdiscord.app/)
 
 </div>
 
@@ -31,7 +31,7 @@ BetterDiscord is a client modification for Discord with endless flexibility and 
 
 # Installation
 
-Download the installer for your operating system below. You can check [this page](https://docs.discordz.xyz/users/getting-started/installation) for a more detailed guide.
+Download the installer for your operating system below. You can check [this page](https://docs.betterdiscord.app/users/getting-started/installation) for a more detailed guide.
 
 [![Windows Installer][windows-badge]][windows-link] [![Mac Installer][mac-badge]][mac-link] [![Linux Installer][linux-badge]][linux-link]
 
@@ -48,13 +48,13 @@ Download the installer for your operating system below. You can check [this page
 
 # Manual Installation
 
-For normal users, installing via the installers makes the most sense. However when wanting to either develop BetterDiscord, or when the installers do not work, this option can be used. Please see our [detailed documentation](https://docs.discordz.xyz/users/getting-started/installation#manual-installation) for a guide on how to do this.
+For normal users, installing via the installers makes the most sense. However when wanting to either develop BetterDiscord, or when the installers do not work, this option can be used. Please see our [detailed documentation](https://docs.betterdiscord.app/users/getting-started/installation#manual-installation) for a guide on how to do this.
 
 
 
 # Addons
 
-Installing addons--like plugins and themes--is easy. All you need to do is select and download an addon from [our website][website-link] and put it in your folder. If you want some more details, or just prefer a visual guide, take a look at our [tutorial on installing addons](https://docs.discordz.xyz/users/guides/installing-addons) that includes a demonstration video.
+Installing addons--like plugins and themes--is easy. All you need to do is select and download an addon from [our website][website-link] and put it in your folder. If you want some more details, or just prefer a visual guide, take a look at our [tutorial on installing addons](https://docs.betterdiscord.app/users/guides/installing-addons) that includes a demonstration video.
 
 
 
